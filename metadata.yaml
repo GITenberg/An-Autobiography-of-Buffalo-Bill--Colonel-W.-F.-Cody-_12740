@@ -1,0 +1,44 @@
+_repo: An-Autobiography-of-Buffalo-Bill--Colonel-W.-F.-Cody-_12740
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wyeth, N. C. (Newell Convers)
+    aliases:
+    - Wyeth, Newell Convers
+    - Wyeth, N.C.
+    birthdate: 1882
+    deathdate: 1945
+    gutenberg_agent_id: '32841'
+    url: http://www.gutenberg.org/2009/agents/32841
+    wikipedia: http://en.wikipedia.org/wiki/N._C._Wyeth
+creator:
+  author:
+    agent_name: Buffalo Bill
+    aliases:
+    - Cody, Buffalo Bill
+    - Cody, William F. (William Frederick)
+    - Bill, Buffalo
+    - Cody, William Frederick
+    birthdate: 1846
+    deathdate: 1917
+    gutenberg_agent_id: '4524'
+    url: http://www.gutenberg.org/2009/agents/4524
+    wikipedia: http://en.wikipedia.org/wiki/Buffalo_Bill
+description: ''
+gutenberg_issued: '2004-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Buffalo Bill, 1846-1917'
+- !lcsh 'West (U.S.) -- Biography'
+- !lcc 'F590.3'
+- !lcsh 'Entertainers -- United States -- Biography'
+- !lcsh 'Pioneers -- West (U.S.) -- Biography'
+- GITenberg
+title: An Autobiography of Buffalo Bill (Colonel W. F. Cody)
+url: http://www.gutenberg.org/ebooks/12740
