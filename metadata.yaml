@@ -1,5 +1,5 @@
 _repo: An-Autobiography-of-Buffalo-Bill--Colonel-W.-F.-Cody-_12740
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Wyeth, N. C. (Newell Convers)
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '32841'
     url: http://www.gutenberg.org/2009/agents/32841
     wikipedia: http://en.wikipedia.org/wiki/N._C._Wyeth
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Buffalo Bill
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4524
     wikipedia: http://en.wikipedia.org/wiki/Buffalo_Bill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12740#An-Autobiography-of-Buffalo-Bill--Colonel-W.-F.-Cody-
 gutenberg_issued: '2004-06-25'
 gutenberg_type: Text
 identifiers:
